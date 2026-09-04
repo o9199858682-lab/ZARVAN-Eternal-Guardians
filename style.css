@@ -30,6 +30,10 @@ header h1 {
   letter-spacing: 8px;
   margin: 0;
 }
+header h2 {
+  color: #e6c56b;
+  font-size: 30px;
+}
 
 header p {
   color: #aaa;
